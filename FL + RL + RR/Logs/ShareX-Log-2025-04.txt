@@ -780,3 +780,17 @@
 2025-04-23 14:24:44.245 - Folder opened: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\Screenshots\2025-04\
 2025-04-23 14:25:40.572 - Folder opened: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\Screenshots\2025-04\
 2025-04-23 14:30:01.140 - Folder opened: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\Screenshots\2025-04\
+2025-04-23 14:44:44.630 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2025-04-23 14:44:44.630 - Hotkey unregistered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 14:44:44.630 - Hotkey unregistered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-04-23 14:44:44.630 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-04-23 14:44:44.630 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-04-23 14:44:44.794 - ShareX closing.
+2025-04-23 14:44:44.798 - ApplicationConfig save started: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\ApplicationConfig.json
+2025-04-23 14:44:45.170 - ApplicationConfig save successful: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\ApplicationConfig.json
+2025-04-23 14:44:45.171 - UploadersConfig save started: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\UploadersConfig.json
+2025-04-23 14:44:45.281 - UploadersConfig save successful: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\UploadersConfig.json
+2025-04-23 14:44:45.282 - HotkeysConfig save started: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\HotkeysConfig.json
+2025-04-23 14:44:45.304 - HotkeysConfig save successful: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FL + RL + RR\HotkeysConfig.json
+2025-04-23 14:44:45.304 - ShareX closed.
+2025-04-23 14:44:45.304 - ShareX restarting.
