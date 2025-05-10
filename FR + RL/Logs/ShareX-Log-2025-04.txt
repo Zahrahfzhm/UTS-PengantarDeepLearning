@@ -1,0 +1,746 @@
+﻿2025-04-23 13:44:56.378 - ShareX starting.
+2025-04-23 13:44:56.380 - Version: 17.0
+2025-04-23 13:44:56.382 - Build: Release
+2025-04-23 13:44:56.382 - Command line: "C:\Program Files\ShareX\ShareX.exe" 
+2025-04-23 13:44:56.382 - Personal path: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL
+2025-04-23 13:44:56.382 - Personal path detection method: PersonalPath.cfg file (C:\Users\Dede Fakhri\Documents\ShareX\PersonalPath.cfg)
+2025-04-23 13:44:56.383 - Operating system: Windows 10 Home Single Language (64-bit)
+2025-04-23 13:44:56.383 - Running as elevated process: False
+2025-04-23 13:44:56.463 - ApplicationConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\ApplicationConfig.json
+2025-04-23 13:44:56.464 - ApplicationConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\ApplicationConfig.json.temp
+2025-04-23 13:44:56.464 - ApplicationConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Backup\ApplicationConfig.json
+2025-04-23 13:44:56.464 - Loading new ApplicationConfig instance.
+2025-04-23 13:44:56.572 - UploadersConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\UploadersConfig.json
+2025-04-23 13:44:56.573 - UploadersConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\UploadersConfig.json.temp
+2025-04-23 13:44:56.573 - UploadersConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Backup\UploadersConfig.json
+2025-04-23 13:44:56.573 - Loading new UploadersConfig instance.
+2025-04-23 13:44:56.596 - MainForm init started.
+2025-04-23 13:44:56.598 - HotkeysConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\HotkeysConfig.json
+2025-04-23 13:44:56.598 - HotkeysConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\HotkeysConfig.json.temp
+2025-04-23 13:44:56.598 - HotkeysConfig file does not exist: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Backup\HotkeysConfig.json
+2025-04-23 13:44:56.598 - Loading new HotkeysConfig instance.
+2025-04-23 13:44:57.554 - MainForm init finished.
+2025-04-23 13:44:57.849 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2025-04-23 13:44:57.850 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:44:57.850 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-04-23 13:44:57.850 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-04-23 13:44:57.850 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-04-23 13:44:57.851 - HotkeyManager started.
+2025-04-23 13:44:57.853 - WatchFolderManager started.
+2025-04-23 13:44:57.914 - Startup time: 1594 ms
+2025-04-23 13:48:47.913 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:48:47.921 - Executing: Capture entire screen
+2025-04-23 13:48:48.172 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:48:48.270 - Task status: Preparing
+2025-04-23 13:48:48.400 - Image copied to clipboard.
+2025-04-23 13:48:48.521 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_016sz0meul.png
+2025-04-23 13:48:48.590 - Task completed. File name: chrome_016sz0meul.png, Duration: 317 ms
+2025-04-23 13:48:49.896 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:48:49.896 - Executing: Capture entire screen
+2025-04-23 13:48:49.982 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:48:50.014 - Task status: Preparing
+2025-04-23 13:48:50.136 - Image copied to clipboard.
+2025-04-23 13:48:50.238 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_zLOTfqiJ3I.png
+2025-04-23 13:48:50.287 - Task completed. File name: chrome_zLOTfqiJ3I.png, Duration: 274 ms
+2025-04-23 13:48:52.187 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:48:52.187 - Executing: Capture entire screen
+2025-04-23 13:48:52.269 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:48:52.301 - Task status: Preparing
+2025-04-23 13:48:52.435 - Image copied to clipboard.
+2025-04-23 13:48:52.529 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_IHLITj5jFj.png
+2025-04-23 13:48:52.606 - Task completed. File name: chrome_IHLITj5jFj.png, Duration: 305 ms
+2025-04-23 13:48:53.624 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:48:53.624 - Executing: Capture entire screen
+2025-04-23 13:48:53.715 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:48:53.748 - Task status: Preparing
+2025-04-23 13:48:53.881 - Image copied to clipboard.
+2025-04-23 13:48:54.015 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_ylLeIOJYHX.png
+2025-04-23 13:48:54.077 - Task completed. File name: chrome_ylLeIOJYHX.png, Duration: 329 ms
+2025-04-23 13:48:55.297 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:48:55.298 - Executing: Capture entire screen
+2025-04-23 13:48:55.380 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:48:55.450 - Task status: Preparing
+2025-04-23 13:48:55.617 - Image copied to clipboard.
+2025-04-23 13:48:55.763 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_5pqZzwdfev.png
+2025-04-23 13:48:55.822 - Task completed. File name: chrome_5pqZzwdfev.png, Duration: 386 ms
+2025-04-23 13:48:57.075 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:48:57.076 - Executing: Capture entire screen
+2025-04-23 13:48:57.159 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:48:57.195 - Task status: Preparing
+2025-04-23 13:48:57.346 - Image copied to clipboard.
+2025-04-23 13:48:57.481 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_rZhLVOKrUf.png
+2025-04-23 13:48:57.547 - Task completed. File name: chrome_rZhLVOKrUf.png, Duration: 354 ms
+2025-04-23 13:48:58.447 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:48:58.447 - Executing: Capture entire screen
+2025-04-23 13:48:58.541 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:48:58.575 - Task status: Preparing
+2025-04-23 13:48:58.709 - Image copied to clipboard.
+2025-04-23 13:48:58.823 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_0NxyRgDZRs.png
+2025-04-23 13:48:58.881 - Task completed. File name: chrome_0NxyRgDZRs.png, Duration: 311 ms
+2025-04-23 13:48:59.953 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:48:59.953 - Executing: Capture entire screen
+2025-04-23 13:49:00.045 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:00.091 - Task status: Preparing
+2025-04-23 13:49:00.225 - Image copied to clipboard.
+2025-04-23 13:49:00.344 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_YMk7jpjhO9.png
+2025-04-23 13:49:00.391 - Task completed. File name: chrome_YMk7jpjhO9.png, Duration: 302 ms
+2025-04-23 13:49:01.544 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:01.544 - Executing: Capture entire screen
+2025-04-23 13:49:01.625 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:01.670 - Task status: Preparing
+2025-04-23 13:49:01.829 - Image copied to clipboard.
+2025-04-23 13:49:01.940 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_HjjUAegzR4.png
+2025-04-23 13:49:01.992 - Task completed. File name: chrome_HjjUAegzR4.png, Duration: 322 ms
+2025-04-23 13:49:03.118 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:03.118 - Executing: Capture entire screen
+2025-04-23 13:49:03.208 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:03.255 - Task status: Preparing
+2025-04-23 13:49:03.394 - Image copied to clipboard.
+2025-04-23 13:49:03.537 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_BL5A6FRiWv.png
+2025-04-23 13:49:03.592 - Task completed. File name: chrome_BL5A6FRiWv.png, Duration: 339 ms
+2025-04-23 13:49:04.963 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:04.963 - Executing: Capture entire screen
+2025-04-23 13:49:05.041 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:05.090 - Task status: Preparing
+2025-04-23 13:49:05.225 - Image copied to clipboard.
+2025-04-23 13:49:05.369 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_fRhI0zxauK.png
+2025-04-23 13:49:05.440 - Task completed. File name: chrome_fRhI0zxauK.png, Duration: 349 ms
+2025-04-23 13:49:06.763 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:06.763 - Executing: Capture entire screen
+2025-04-23 13:49:06.845 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:06.888 - Task status: Preparing
+2025-04-23 13:49:07.032 - Image copied to clipboard.
+2025-04-23 13:49:07.154 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_QUHkqXsrS8.png
+2025-04-23 13:49:07.211 - Task completed. File name: chrome_QUHkqXsrS8.png, Duration: 323 ms
+2025-04-23 13:49:08.399 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:08.399 - Executing: Capture entire screen
+2025-04-23 13:49:08.485 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:08.555 - Task status: Preparing
+2025-04-23 13:49:08.698 - Image copied to clipboard.
+2025-04-23 13:49:08.810 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_rRL6exzPLY.png
+2025-04-23 13:49:08.868 - Task completed. File name: chrome_rRL6exzPLY.png, Duration: 312 ms
+2025-04-23 13:49:10.376 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:10.376 - Executing: Capture entire screen
+2025-04-23 13:49:10.458 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:10.509 - Task status: Preparing
+2025-04-23 13:49:10.685 - Image copied to clipboard.
+2025-04-23 13:49:10.817 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_ko2v8uok3W.png
+2025-04-23 13:49:10.883 - Task completed. File name: chrome_ko2v8uok3W.png, Duration: 376 ms
+2025-04-23 13:49:13.196 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:13.196 - Executing: Capture entire screen
+2025-04-23 13:49:13.280 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:13.340 - Task status: Preparing
+2025-04-23 13:49:13.465 - Image copied to clipboard.
+2025-04-23 13:49:13.558 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_nrixCJG0LG.png
+2025-04-23 13:49:13.602 - Task completed. File name: chrome_nrixCJG0LG.png, Duration: 261 ms
+2025-04-23 13:49:14.682 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:14.682 - Executing: Capture entire screen
+2025-04-23 13:49:14.758 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:14.825 - Task status: Preparing
+2025-04-23 13:49:14.999 - Image copied to clipboard.
+2025-04-23 13:49:15.163 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_6Kfn2nWXHw.png
+2025-04-23 13:49:15.227 - Task completed. File name: chrome_6Kfn2nWXHw.png, Duration: 403 ms
+2025-04-23 13:49:16.359 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:16.360 - Executing: Capture entire screen
+2025-04-23 13:49:16.459 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:16.531 - Task status: Preparing
+2025-04-23 13:49:16.711 - Image copied to clipboard.
+2025-04-23 13:49:16.824 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_YrRf5IcPOS.png
+2025-04-23 13:49:16.888 - Task completed. File name: chrome_YrRf5IcPOS.png, Duration: 356 ms
+2025-04-23 13:49:18.092 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:18.093 - Executing: Capture entire screen
+2025-04-23 13:49:18.189 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:18.246 - Task status: Preparing
+2025-04-23 13:49:18.398 - Image copied to clipboard.
+2025-04-23 13:49:18.548 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_O83orFgQHE.png
+2025-04-23 13:49:18.601 - Task completed. File name: chrome_O83orFgQHE.png, Duration: 355 ms
+2025-04-23 13:49:19.738 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:19.739 - Executing: Capture entire screen
+2025-04-23 13:49:19.827 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:19.891 - Task status: Preparing
+2025-04-23 13:49:20.061 - Image copied to clipboard.
+2025-04-23 13:49:20.203 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_jMBGOkYXzV.png
+2025-04-23 13:49:20.274 - Task completed. File name: chrome_jMBGOkYXzV.png, Duration: 383 ms
+2025-04-23 13:49:21.198 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:21.198 - Executing: Capture entire screen
+2025-04-23 13:49:21.279 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:21.334 - Task status: Preparing
+2025-04-23 13:49:21.474 - Image copied to clipboard.
+2025-04-23 13:49:21.584 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_S1K5GEHJ91.png
+2025-04-23 13:49:21.634 - Task completed. File name: chrome_S1K5GEHJ91.png, Duration: 304 ms
+2025-04-23 13:49:22.731 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:22.731 - Executing: Capture entire screen
+2025-04-23 13:49:22.809 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:22.865 - Task status: Preparing
+2025-04-23 13:49:22.992 - Image copied to clipboard.
+2025-04-23 13:49:23.115 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_yGAjBdqwew.png
+2025-04-23 13:49:23.160 - Task completed. File name: chrome_yGAjBdqwew.png, Duration: 295 ms
+2025-04-23 13:49:24.428 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:24.428 - Executing: Capture entire screen
+2025-04-23 13:49:24.509 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:24.559 - Task status: Preparing
+2025-04-23 13:49:24.691 - Image copied to clipboard.
+2025-04-23 13:49:24.822 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_j2BwexpgI0.png
+2025-04-23 13:49:24.875 - Task completed. File name: chrome_j2BwexpgI0.png, Duration: 314 ms
+2025-04-23 13:49:26.674 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:26.674 - Executing: Capture entire screen
+2025-04-23 13:49:26.765 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:26.827 - Task status: Preparing
+2025-04-23 13:49:27.054 - Image copied to clipboard.
+2025-04-23 13:49:27.189 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_2K3NTRDE6T.png
+2025-04-23 13:49:27.250 - Task completed. File name: chrome_2K3NTRDE6T.png, Duration: 425 ms
+2025-04-23 13:49:28.219 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:28.219 - Executing: Capture entire screen
+2025-04-23 13:49:28.319 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:28.405 - Task status: Preparing
+2025-04-23 13:49:28.584 - Image copied to clipboard.
+2025-04-23 13:49:28.699 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_PqL5p8yFfb.png
+2025-04-23 13:49:28.747 - Task completed. File name: chrome_PqL5p8yFfb.png, Duration: 340 ms
+2025-04-23 13:49:30.100 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:30.100 - Executing: Capture entire screen
+2025-04-23 13:49:30.195 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:30.268 - Task status: Preparing
+2025-04-23 13:49:30.403 - Image copied to clipboard.
+2025-04-23 13:49:30.504 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_ViUaHARxXs.png
+2025-04-23 13:49:30.568 - Task completed. File name: chrome_ViUaHARxXs.png, Duration: 301 ms
+2025-04-23 13:49:33.512 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:33.512 - Executing: Capture entire screen
+2025-04-23 13:49:33.598 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:33.682 - Task status: Preparing
+2025-04-23 13:49:33.828 - Image copied to clipboard.
+2025-04-23 13:49:33.948 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_CuodY3oT2D.png
+2025-04-23 13:49:34.009 - Task completed. File name: chrome_CuodY3oT2D.png, Duration: 327 ms
+2025-04-23 13:49:35.104 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:35.104 - Executing: Capture entire screen
+2025-04-23 13:49:35.184 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:35.246 - Task status: Preparing
+2025-04-23 13:49:35.414 - Image copied to clipboard.
+2025-04-23 13:49:35.562 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_EXNL4wCSKy.png
+2025-04-23 13:49:35.639 - Task completed. File name: chrome_EXNL4wCSKy.png, Duration: 393 ms
+2025-04-23 13:49:36.764 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:36.764 - Executing: Capture entire screen
+2025-04-23 13:49:36.859 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:36.914 - Task status: Preparing
+2025-04-23 13:49:37.064 - Image copied to clipboard.
+2025-04-23 13:49:37.197 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_PR002Fx1GR.png
+2025-04-23 13:49:37.247 - Task completed. File name: chrome_PR002Fx1GR.png, Duration: 333 ms
+2025-04-23 13:49:38.873 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:38.873 - Executing: Capture entire screen
+2025-04-23 13:49:38.957 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:39.037 - Task status: Preparing
+2025-04-23 13:49:39.174 - Image copied to clipboard.
+2025-04-23 13:49:39.284 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_eHGpxVSYYN.png
+2025-04-23 13:49:39.334 - Task completed. File name: chrome_eHGpxVSYYN.png, Duration: 297 ms
+2025-04-23 13:49:40.449 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:40.449 - Executing: Capture entire screen
+2025-04-23 13:49:40.553 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:40.626 - Task status: Preparing
+2025-04-23 13:49:40.824 - Image copied to clipboard.
+2025-04-23 13:49:40.968 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_sE6A7jf7BS.png
+2025-04-23 13:49:41.028 - Task completed. File name: chrome_sE6A7jf7BS.png, Duration: 402 ms
+2025-04-23 13:49:42.487 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:42.487 - Executing: Capture entire screen
+2025-04-23 13:49:42.593 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:42.694 - Task status: Preparing
+2025-04-23 13:49:42.872 - Image copied to clipboard.
+2025-04-23 13:49:42.977 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_ig6fKCB1kN.png
+2025-04-23 13:49:43.044 - Task completed. File name: chrome_ig6fKCB1kN.png, Duration: 350 ms
+2025-04-23 13:49:44.160 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:44.162 - Executing: Capture entire screen
+2025-04-23 13:49:44.254 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:44.325 - Task status: Preparing
+2025-04-23 13:49:44.513 - Image copied to clipboard.
+2025-04-23 13:49:44.662 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_tBuh5fAFP4.png
+2025-04-23 13:49:44.738 - Task completed. File name: chrome_tBuh5fAFP4.png, Duration: 411 ms
+2025-04-23 13:49:45.665 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:45.665 - Executing: Capture entire screen
+2025-04-23 13:49:45.772 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:45.850 - Task status: Preparing
+2025-04-23 13:49:46.038 - Image copied to clipboard.
+2025-04-23 13:49:46.171 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_wfRZfofB7K.png
+2025-04-23 13:49:46.236 - Task completed. File name: chrome_wfRZfofB7K.png, Duration: 385 ms
+2025-04-23 13:49:47.238 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:47.238 - Executing: Capture entire screen
+2025-04-23 13:49:47.334 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:47.400 - Task status: Preparing
+2025-04-23 13:49:47.567 - Image copied to clipboard.
+2025-04-23 13:49:47.690 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_Z8C6mmNfI2.png
+2025-04-23 13:49:47.752 - Task completed. File name: chrome_Z8C6mmNfI2.png, Duration: 351 ms
+2025-04-23 13:49:48.736 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:48.736 - Executing: Capture entire screen
+2025-04-23 13:49:48.837 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:48.919 - Task status: Preparing
+2025-04-23 13:49:49.086 - Image copied to clipboard.
+2025-04-23 13:49:49.221 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_rIgq6wZhfM.png
+2025-04-23 13:49:49.297 - Task completed. File name: chrome_rIgq6wZhfM.png, Duration: 378 ms
+2025-04-23 13:49:50.336 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:50.336 - Executing: Capture entire screen
+2025-04-23 13:49:50.433 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:50.500 - Task status: Preparing
+2025-04-23 13:49:50.666 - Image copied to clipboard.
+2025-04-23 13:49:50.786 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_Ci7GZlPP5R.png
+2025-04-23 13:49:50.847 - Task completed. File name: chrome_Ci7GZlPP5R.png, Duration: 348 ms
+2025-04-23 13:49:52.114 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:52.114 - Executing: Capture entire screen
+2025-04-23 13:49:52.211 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:52.280 - Task status: Preparing
+2025-04-23 13:49:52.447 - Image copied to clipboard.
+2025-04-23 13:49:52.565 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_xezNCcFZPq.png
+2025-04-23 13:49:52.628 - Task completed. File name: chrome_xezNCcFZPq.png, Duration: 348 ms
+2025-04-23 13:49:54.045 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:54.045 - Executing: Capture entire screen
+2025-04-23 13:49:54.145 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:54.229 - Task status: Preparing
+2025-04-23 13:49:54.397 - Image copied to clipboard.
+2025-04-23 13:49:54.528 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_bB090kImO0.png
+2025-04-23 13:49:54.597 - Task completed. File name: chrome_bB090kImO0.png, Duration: 368 ms
+2025-04-23 13:49:55.780 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:55.780 - Executing: Capture entire screen
+2025-04-23 13:49:55.858 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:55.931 - Task status: Preparing
+2025-04-23 13:49:56.064 - Image copied to clipboard.
+2025-04-23 13:49:56.166 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_IeauiaAovH.png
+2025-04-23 13:49:56.226 - Task completed. File name: chrome_IeauiaAovH.png, Duration: 293 ms
+2025-04-23 13:49:57.562 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:49:57.562 - Executing: Capture entire screen
+2025-04-23 13:49:57.658 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:49:57.725 - Task status: Preparing
+2025-04-23 13:49:57.861 - Image copied to clipboard.
+2025-04-23 13:49:57.981 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_aMIbfS4iJA.png
+2025-04-23 13:49:58.027 - Task completed. File name: chrome_aMIbfS4iJA.png, Duration: 303 ms
+2025-04-23 13:50:00.484 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:00.484 - Executing: Capture entire screen
+2025-04-23 13:50:00.562 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:00.652 - Task status: Preparing
+2025-04-23 13:50:00.778 - Image copied to clipboard.
+2025-04-23 13:50:00.901 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_tz8nE7VkMr.png
+2025-04-23 13:50:00.965 - Task completed. File name: chrome_tz8nE7VkMr.png, Duration: 312 ms
+2025-04-23 13:50:02.315 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:02.315 - Executing: Capture entire screen
+2025-04-23 13:50:02.398 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:02.492 - Task status: Preparing
+2025-04-23 13:50:02.643 - Image copied to clipboard.
+2025-04-23 13:50:02.758 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_71E1zy0l5F.png
+2025-04-23 13:50:02.822 - Task completed. File name: chrome_71E1zy0l5F.png, Duration: 329 ms
+2025-04-23 13:50:04.005 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:04.006 - Executing: Capture entire screen
+2025-04-23 13:50:04.085 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:04.169 - Task status: Preparing
+2025-04-23 13:50:04.304 - Image copied to clipboard.
+2025-04-23 13:50:04.433 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_5U4MEgrXDc.png
+2025-04-23 13:50:04.496 - Task completed. File name: chrome_5U4MEgrXDc.png, Duration: 327 ms
+2025-04-23 13:50:05.348 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:05.348 - Executing: Capture entire screen
+2025-04-23 13:50:05.447 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:05.549 - Task status: Preparing
+2025-04-23 13:50:05.806 - Image copied to clipboard.
+2025-04-23 13:50:06.019 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_UcCkf3rxXn.png
+2025-04-23 13:50:06.079 - Task completed. File name: chrome_UcCkf3rxXn.png, Duration: 530 ms
+2025-04-23 13:50:06.776 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:06.776 - Executing: Capture entire screen
+2025-04-23 13:50:06.863 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:06.949 - Task status: Preparing
+2025-04-23 13:50:07.133 - Image copied to clipboard.
+2025-04-23 13:50:07.262 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_MPlmSgPBMa.png
+2025-04-23 13:50:07.319 - Task completed. File name: chrome_MPlmSgPBMa.png, Duration: 371 ms
+2025-04-23 13:50:09.228 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:09.228 - Executing: Capture entire screen
+2025-04-23 13:50:09.317 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:09.417 - Task status: Preparing
+2025-04-23 13:50:09.548 - Image copied to clipboard.
+2025-04-23 13:50:09.666 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_NQhGrKwP43.png
+2025-04-23 13:50:09.736 - Task completed. File name: chrome_NQhGrKwP43.png, Duration: 325 ms
+2025-04-23 13:50:11.778 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:11.778 - Executing: Capture entire screen
+2025-04-23 13:50:11.883 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:11.997 - Task status: Preparing
+2025-04-23 13:50:12.167 - Image copied to clipboard.
+2025-04-23 13:50:12.298 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_wQOmg9HGeR.png
+2025-04-23 13:50:12.354 - Task completed. File name: chrome_wQOmg9HGeR.png, Duration: 356 ms
+2025-04-23 13:50:13.999 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:13.999 - Executing: Capture entire screen
+2025-04-23 13:50:14.094 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:14.194 - Task status: Preparing
+2025-04-23 13:50:14.344 - Image copied to clipboard.
+2025-04-23 13:50:14.476 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_MgZyZdUgtz.png
+2025-04-23 13:50:14.531 - Task completed. File name: chrome_MgZyZdUgtz.png, Duration: 338 ms
+2025-04-23 13:50:15.579 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:15.579 - Executing: Capture entire screen
+2025-04-23 13:50:15.679 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:15.764 - Task status: Preparing
+2025-04-23 13:50:15.960 - Image copied to clipboard.
+2025-04-23 13:50:16.099 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_xpd4hCtaOC.png
+2025-04-23 13:50:16.161 - Task completed. File name: chrome_xpd4hCtaOC.png, Duration: 397 ms
+2025-04-23 13:50:17.324 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:17.324 - Executing: Capture entire screen
+2025-04-23 13:50:17.410 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:17.492 - Task status: Preparing
+2025-04-23 13:50:17.654 - Image copied to clipboard.
+2025-04-23 13:50:17.757 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_MTxnL72MOL.png
+2025-04-23 13:50:17.809 - Task completed. File name: chrome_MTxnL72MOL.png, Duration: 316 ms
+2025-04-23 13:50:18.878 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:18.879 - Executing: Capture entire screen
+2025-04-23 13:50:18.973 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:19.060 - Task status: Preparing
+2025-04-23 13:50:19.226 - Image copied to clipboard.
+2025-04-23 13:50:19.393 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_G7n151agOh.png
+2025-04-23 13:50:19.455 - Task completed. File name: chrome_G7n151agOh.png, Duration: 393 ms
+2025-04-23 13:50:20.455 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:20.455 - Executing: Capture entire screen
+2025-04-23 13:50:20.555 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:20.640 - Task status: Preparing
+2025-04-23 13:50:20.792 - Image copied to clipboard.
+2025-04-23 13:50:20.921 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_qxauel0GJs.png
+2025-04-23 13:50:20.981 - Task completed. File name: chrome_qxauel0GJs.png, Duration: 340 ms
+2025-04-23 13:50:22.003 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:22.003 - Executing: Capture entire screen
+2025-04-23 13:50:22.094 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:22.186 - Task status: Preparing
+2025-04-23 13:50:22.317 - Image copied to clipboard.
+2025-04-23 13:50:22.433 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_Yzh6fk6pGo.png
+2025-04-23 13:50:22.486 - Task completed. File name: chrome_Yzh6fk6pGo.png, Duration: 301 ms
+2025-04-23 13:50:23.836 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:23.836 - Executing: Capture entire screen
+2025-04-23 13:50:23.924 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:24.156 - Task status: Preparing
+2025-04-23 13:50:24.422 - Image copied to clipboard.
+2025-04-23 13:50:24.572 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_TC41jxOooH.png
+2025-04-23 13:50:24.645 - Task completed. File name: chrome_TC41jxOooH.png, Duration: 558 ms
+2025-04-23 13:50:25.402 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:25.402 - Executing: Capture entire screen
+2025-04-23 13:50:25.505 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:25.602 - Task status: Preparing
+2025-04-23 13:50:25.782 - Image copied to clipboard.
+2025-04-23 13:50:25.935 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_HmgM9yNoIB.png
+2025-04-23 13:50:25.988 - Task completed. File name: chrome_HmgM9yNoIB.png, Duration: 386 ms
+2025-04-23 13:50:27.113 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:27.113 - Executing: Capture entire screen
+2025-04-23 13:50:27.201 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:27.286 - Task status: Preparing
+2025-04-23 13:50:27.431 - Image copied to clipboard.
+2025-04-23 13:50:27.565 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_eLrJ2oKVLw.png
+2025-04-23 13:50:27.621 - Task completed. File name: chrome_eLrJ2oKVLw.png, Duration: 335 ms
+2025-04-23 13:50:28.998 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:28.998 - Executing: Capture entire screen
+2025-04-23 13:50:29.084 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:29.183 - Task status: Preparing
+2025-04-23 13:50:29.334 - Image copied to clipboard.
+2025-04-23 13:50:29.492 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_9GNIfWsWMW.png
+2025-04-23 13:50:29.553 - Task completed. File name: chrome_9GNIfWsWMW.png, Duration: 370 ms
+2025-04-23 13:50:30.646 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:30.646 - Executing: Capture entire screen
+2025-04-23 13:50:30.732 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:30.819 - Task status: Preparing
+2025-04-23 13:50:30.966 - Image copied to clipboard.
+2025-04-23 13:50:31.092 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_BPm9cSLJnc.png
+2025-04-23 13:50:31.167 - Task completed. File name: chrome_BPm9cSLJnc.png, Duration: 346 ms
+2025-04-23 13:50:32.376 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:32.376 - Executing: Capture entire screen
+2025-04-23 13:50:32.482 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:32.610 - Task status: Preparing
+2025-04-23 13:50:32.782 - Image copied to clipboard.
+2025-04-23 13:50:32.927 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_9ND1rLfp1N.png
+2025-04-23 13:50:33.000 - Task completed. File name: chrome_9ND1rLfp1N.png, Duration: 392 ms
+2025-04-23 13:50:34.820 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:34.820 - Executing: Capture entire screen
+2025-04-23 13:50:34.908 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:35.057 - Task status: Preparing
+2025-04-23 13:50:35.213 - Image copied to clipboard.
+2025-04-23 13:50:35.357 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_XEGSuBTCDu.png
+2025-04-23 13:50:35.431 - Task completed. File name: chrome_XEGSuBTCDu.png, Duration: 376 ms
+2025-04-23 13:50:36.486 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:36.487 - Executing: Capture entire screen
+2025-04-23 13:50:36.573 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:36.693 - Task status: Preparing
+2025-04-23 13:50:36.894 - Image copied to clipboard.
+2025-04-23 13:50:37.046 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_iIOHYHAigN.png
+2025-04-23 13:50:37.113 - Task completed. File name: chrome_iIOHYHAigN.png, Duration: 424 ms
+2025-04-23 13:50:38.008 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:38.008 - Executing: Capture entire screen
+2025-04-23 13:50:38.111 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:38.219 - Task status: Preparing
+2025-04-23 13:50:38.395 - Image copied to clipboard.
+2025-04-23 13:50:38.562 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_F5ltW1KEEq.png
+2025-04-23 13:50:38.625 - Task completed. File name: chrome_F5ltW1KEEq.png, Duration: 406 ms
+2025-04-23 13:50:39.693 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:39.693 - Executing: Capture entire screen
+2025-04-23 13:50:39.793 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:39.888 - Task status: Preparing
+2025-04-23 13:50:40.045 - Image copied to clipboard.
+2025-04-23 13:50:40.211 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_c7vBd31LfK.png
+2025-04-23 13:50:40.273 - Task completed. File name: chrome_c7vBd31LfK.png, Duration: 386 ms
+2025-04-23 13:50:41.402 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:41.402 - Executing: Capture entire screen
+2025-04-23 13:50:41.488 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:41.576 - Task status: Preparing
+2025-04-23 13:50:41.707 - Image copied to clipboard.
+2025-04-23 13:50:41.807 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_TzjnrgpJ3z.png
+2025-04-23 13:50:41.871 - Task completed. File name: chrome_TzjnrgpJ3z.png, Duration: 296 ms
+2025-04-23 13:50:43.069 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:43.069 - Executing: Capture entire screen
+2025-04-23 13:50:43.153 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:43.247 - Task status: Preparing
+2025-04-23 13:50:43.382 - Image copied to clipboard.
+2025-04-23 13:50:43.509 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_jUBABCgP8g.png
+2025-04-23 13:50:43.569 - Task completed. File name: chrome_jUBABCgP8g.png, Duration: 323 ms
+2025-04-23 13:50:46.458 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:46.458 - Executing: Capture entire screen
+2025-04-23 13:50:46.539 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:46.653 - Task status: Preparing
+2025-04-23 13:50:46.787 - Image copied to clipboard.
+2025-04-23 13:50:46.886 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_lPiDRkslSw.png
+2025-04-23 13:50:46.938 - Task completed. File name: chrome_lPiDRkslSw.png, Duration: 285 ms
+2025-04-23 13:50:47.942 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:47.942 - Executing: Capture entire screen
+2025-04-23 13:50:48.031 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:48.131 - Task status: Preparing
+2025-04-23 13:50:48.294 - Image copied to clipboard.
+2025-04-23 13:50:48.465 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_cTQd3eD7RD.png
+2025-04-23 13:50:48.531 - Task completed. File name: chrome_cTQd3eD7RD.png, Duration: 400 ms
+2025-04-23 13:50:49.474 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:49.474 - Executing: Capture entire screen
+2025-04-23 13:50:49.553 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:49.647 - Task status: Preparing
+2025-04-23 13:50:49.769 - Image copied to clipboard.
+2025-04-23 13:50:49.879 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_1bLkft4idi.png
+2025-04-23 13:50:49.935 - Task completed. File name: chrome_1bLkft4idi.png, Duration: 288 ms
+2025-04-23 13:50:51.132 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:51.132 - Executing: Capture entire screen
+2025-04-23 13:50:51.211 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:51.308 - Task status: Preparing
+2025-04-23 13:50:51.432 - Image copied to clipboard.
+2025-04-23 13:50:51.543 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_UtyjxbIxmF.png
+2025-04-23 13:50:51.594 - Task completed. File name: chrome_UtyjxbIxmF.png, Duration: 285 ms
+2025-04-23 13:50:52.928 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:52.928 - Executing: Capture entire screen
+2025-04-23 13:50:53.014 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:53.133 - Task status: Preparing
+2025-04-23 13:50:53.315 - Image copied to clipboard.
+2025-04-23 13:50:53.481 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_uoPAIAqmyk.png
+2025-04-23 13:50:53.542 - Task completed. File name: chrome_uoPAIAqmyk.png, Duration: 409 ms
+2025-04-23 13:50:54.824 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:54.824 - Executing: Capture entire screen
+2025-04-23 13:50:54.911 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:55.023 - Task status: Preparing
+2025-04-23 13:50:55.192 - Image copied to clipboard.
+2025-04-23 13:50:55.326 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_eDH829Kw8T.png
+2025-04-23 13:50:55.408 - Task completed. File name: chrome_eDH829Kw8T.png, Duration: 385 ms
+2025-04-23 13:50:56.373 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:56.373 - Executing: Capture entire screen
+2025-04-23 13:50:56.464 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:56.587 - Task status: Preparing
+2025-04-23 13:50:56.776 - Image copied to clipboard.
+2025-04-23 13:50:56.904 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_aeRLAOLiIC.png
+2025-04-23 13:50:56.971 - Task completed. File name: chrome_aeRLAOLiIC.png, Duration: 383 ms
+2025-04-23 13:50:58.019 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:58.020 - Executing: Capture entire screen
+2025-04-23 13:50:58.123 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:58.243 - Task status: Preparing
+2025-04-23 13:50:58.410 - Image copied to clipboard.
+2025-04-23 13:50:58.575 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_eR9y38oEOM.png
+2025-04-23 13:50:58.632 - Task completed. File name: chrome_eR9y38oEOM.png, Duration: 389 ms
+2025-04-23 13:50:59.525 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:50:59.525 - Executing: Capture entire screen
+2025-04-23 13:50:59.603 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:50:59.726 - Task status: Preparing
+2025-04-23 13:50:59.857 - Image copied to clipboard.
+2025-04-23 13:50:59.988 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_l2OsdIjyiY.png
+2025-04-23 13:51:00.061 - Task completed. File name: chrome_l2OsdIjyiY.png, Duration: 334 ms
+2025-04-23 13:51:01.149 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:01.149 - Executing: Capture entire screen
+2025-04-23 13:51:01.235 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:01.383 - Task status: Preparing
+2025-04-23 13:51:01.537 - Image copied to clipboard.
+2025-04-23 13:51:01.690 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_OBF5k3c5OE.png
+2025-04-23 13:51:01.758 - Task completed. File name: chrome_OBF5k3c5OE.png, Duration: 376 ms
+2025-04-23 13:51:02.975 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:02.975 - Executing: Capture entire screen
+2025-04-23 13:51:03.072 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:03.191 - Task status: Preparing
+2025-04-23 13:51:03.335 - Image copied to clipboard.
+2025-04-23 13:51:03.465 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_7nM9JGeriU.png
+2025-04-23 13:51:03.534 - Task completed. File name: chrome_7nM9JGeriU.png, Duration: 342 ms
+2025-04-23 13:51:04.888 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:04.888 - Executing: Capture entire screen
+2025-04-23 13:51:04.983 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:05.146 - Task status: Preparing
+2025-04-23 13:51:05.337 - Image copied to clipboard.
+2025-04-23 13:51:05.531 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_EYwpV13J9g.png
+2025-04-23 13:51:05.603 - Task completed. File name: chrome_EYwpV13J9g.png, Duration: 456 ms
+2025-04-23 13:51:06.596 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:06.597 - Executing: Capture entire screen
+2025-04-23 13:51:06.681 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:06.789 - Task status: Preparing
+2025-04-23 13:51:06.936 - Image copied to clipboard.
+2025-04-23 13:51:07.080 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_M2dGUViQNJ.png
+2025-04-23 13:51:07.143 - Task completed. File name: chrome_M2dGUViQNJ.png, Duration: 355 ms
+2025-04-23 13:51:08.155 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:08.156 - Executing: Capture entire screen
+2025-04-23 13:51:08.244 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:08.365 - Task status: Preparing
+2025-04-23 13:51:08.518 - Image copied to clipboard.
+2025-04-23 13:51:08.662 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_nPzXZe2oQG.png
+2025-04-23 13:51:08.715 - Task completed. File name: chrome_nPzXZe2oQG.png, Duration: 350 ms
+2025-04-23 13:51:09.819 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:09.819 - Executing: Capture entire screen
+2025-04-23 13:51:09.910 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:10.044 - Task status: Preparing
+2025-04-23 13:51:10.214 - Image copied to clipboard.
+2025-04-23 13:51:10.380 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_jJHJWw9Syh.png
+2025-04-23 13:51:10.466 - Task completed. File name: chrome_jJHJWw9Syh.png, Duration: 422 ms
+2025-04-23 13:51:13.251 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:13.251 - Executing: Capture entire screen
+2025-04-23 13:51:13.337 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:13.480 - Task status: Preparing
+2025-04-23 13:51:13.679 - Image copied to clipboard.
+2025-04-23 13:51:13.814 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_uAeRwzgEri.png
+2025-04-23 13:51:13.881 - Task completed. File name: chrome_uAeRwzgEri.png, Duration: 401 ms
+2025-04-23 13:51:15.497 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:15.497 - Executing: Capture entire screen
+2025-04-23 13:51:15.590 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:15.704 - Task status: Preparing
+2025-04-23 13:51:15.847 - Image copied to clipboard.
+2025-04-23 13:51:15.970 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_yiN0XJDaki.png
+2025-04-23 13:51:16.018 - Task completed. File name: chrome_yiN0XJDaki.png, Duration: 314 ms
+2025-04-23 13:51:17.421 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:17.421 - Executing: Capture entire screen
+2025-04-23 13:51:17.507 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:17.662 - Task status: Preparing
+2025-04-23 13:51:17.829 - Image copied to clipboard.
+2025-04-23 13:51:18.182 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_uoBgefPPPU.png
+2025-04-23 13:51:18.245 - Task completed. File name: chrome_uoBgefPPPU.png, Duration: 583 ms
+2025-04-23 13:51:19.614 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:19.615 - Executing: Capture entire screen
+2025-04-23 13:51:19.701 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:19.824 - Task status: Preparing
+2025-04-23 13:51:19.970 - Image copied to clipboard.
+2025-04-23 13:51:20.093 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_j4dJzi4acX.png
+2025-04-23 13:51:20.164 - Task completed. File name: chrome_j4dJzi4acX.png, Duration: 339 ms
+2025-04-23 13:51:21.475 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:21.475 - Executing: Capture entire screen
+2025-04-23 13:51:21.566 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:21.720 - Task status: Preparing
+2025-04-23 13:51:21.874 - Image copied to clipboard.
+2025-04-23 13:51:22.054 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_Fmi5KCijzL.png
+2025-04-23 13:51:22.135 - Task completed. File name: chrome_Fmi5KCijzL.png, Duration: 416 ms
+2025-04-23 13:51:23.167 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:23.167 - Executing: Capture entire screen
+2025-04-23 13:51:23.272 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:23.453 - Task status: Preparing
+2025-04-23 13:51:23.622 - Image copied to clipboard.
+2025-04-23 13:51:23.783 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_aXj8hyCVUt.png
+2025-04-23 13:51:23.849 - Task completed. File name: chrome_aXj8hyCVUt.png, Duration: 396 ms
+2025-04-23 13:51:24.815 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:24.815 - Executing: Capture entire screen
+2025-04-23 13:51:24.901 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:25.019 - Task status: Preparing
+2025-04-23 13:51:25.184 - Image copied to clipboard.
+2025-04-23 13:51:25.317 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_PNeRLmVByK.png
+2025-04-23 13:51:25.386 - Task completed. File name: chrome_PNeRLmVByK.png, Duration: 367 ms
+2025-04-23 13:51:26.430 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:26.430 - Executing: Capture entire screen
+2025-04-23 13:51:26.511 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:26.644 - Task status: Preparing
+2025-04-23 13:51:26.797 - Image copied to clipboard.
+2025-04-23 13:51:26.927 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_z2kt9OpPns.png
+2025-04-23 13:51:26.986 - Task completed. File name: chrome_z2kt9OpPns.png, Duration: 342 ms
+2025-04-23 13:51:27.976 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:27.976 - Executing: Capture entire screen
+2025-04-23 13:51:28.067 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:28.219 - Task status: Preparing
+2025-04-23 13:51:28.362 - Image copied to clipboard.
+2025-04-23 13:51:28.494 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_oVuN6umY8z.png
+2025-04-23 13:51:28.551 - Task completed. File name: chrome_oVuN6umY8z.png, Duration: 330 ms
+2025-04-23 13:51:30.250 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:30.250 - Executing: Capture entire screen
+2025-04-23 13:51:30.330 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:30.459 - Task status: Preparing
+2025-04-23 13:51:30.596 - Image copied to clipboard.
+2025-04-23 13:51:30.711 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_CdWvQLyfX7.png
+2025-04-23 13:51:30.774 - Task completed. File name: chrome_CdWvQLyfX7.png, Duration: 316 ms
+2025-04-23 13:51:32.175 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:32.175 - Executing: Capture entire screen
+2025-04-23 13:51:32.260 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:32.382 - Task status: Preparing
+2025-04-23 13:51:32.514 - Image copied to clipboard.
+2025-04-23 13:51:32.630 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_1lRGWY42hE.png
+2025-04-23 13:51:32.679 - Task completed. File name: chrome_1lRGWY42hE.png, Duration: 298 ms
+2025-04-23 13:51:34.696 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:34.696 - Executing: Capture entire screen
+2025-04-23 13:51:34.797 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:34.962 - Task status: Preparing
+2025-04-23 13:51:35.126 - Image copied to clipboard.
+2025-04-23 13:51:35.325 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_Psln7mhsFb.png
+2025-04-23 13:51:35.381 - Task completed. File name: chrome_Psln7mhsFb.png, Duration: 420 ms
+2025-04-23 13:51:36.362 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:36.362 - Executing: Capture entire screen
+2025-04-23 13:51:36.459 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:36.604 - Task status: Preparing
+2025-04-23 13:51:36.755 - Image copied to clipboard.
+2025-04-23 13:51:36.889 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_Hjm994N9QG.png
+2025-04-23 13:51:36.946 - Task completed. File name: chrome_Hjm994N9QG.png, Duration: 349 ms
+2025-04-23 13:51:38.580 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:38.580 - Executing: Capture entire screen
+2025-04-23 13:51:38.675 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:38.868 - Task status: Preparing
+2025-04-23 13:51:39.060 - Image copied to clipboard.
+2025-04-23 13:51:39.227 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_aRXNfgB4BS.png
+2025-04-23 13:51:39.308 - Task completed. File name: chrome_aRXNfgB4BS.png, Duration: 441 ms
+2025-04-23 13:51:40.252 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:40.253 - Executing: Capture entire screen
+2025-04-23 13:51:40.354 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:40.494 - Task status: Preparing
+2025-04-23 13:51:40.642 - Image copied to clipboard.
+2025-04-23 13:51:40.775 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_um90w8WcrL.png
+2025-04-23 13:51:40.850 - Task completed. File name: chrome_um90w8WcrL.png, Duration: 355 ms
+2025-04-23 13:51:42.409 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:51:42.410 - Executing: Capture entire screen
+2025-04-23 13:51:42.506 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:51:42.688 - Task status: Preparing
+2025-04-23 13:51:42.870 - Image copied to clipboard.
+2025-04-23 13:51:42.987 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_MXW8QOcJ6T.png
+2025-04-23 13:51:43.043 - Task completed. File name: chrome_MXW8QOcJ6T.png, Duration: 354 ms
+2025-04-23 13:51:49.570 - Folder opened: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\
+2025-04-23 13:52:06.245 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:52:06.245 - Executing: Capture entire screen
+2025-04-23 13:52:06.350 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:52:06.549 - Task status: Preparing
+2025-04-23 13:52:06.785 - Image copied to clipboard.
+2025-04-23 13:52:06.943 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_aB2UIkr5Ws.png
+2025-04-23 13:52:07.027 - Task completed. File name: chrome_aB2UIkr5Ws.png, Duration: 477 ms
+2025-04-23 13:52:07.722 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:52:07.722 - Executing: Capture entire screen
+2025-04-23 13:52:07.814 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:52:07.962 - Task status: Preparing
+2025-04-23 13:52:08.131 - Image copied to clipboard.
+2025-04-23 13:52:08.277 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_QrtDIWVSel.png
+2025-04-23 13:52:08.334 - Task completed. File name: chrome_QrtDIWVSel.png, Duration: 374 ms
+2025-04-23 13:52:09.407 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:52:09.407 - Executing: Capture entire screen
+2025-04-23 13:52:09.497 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:52:09.647 - Task status: Preparing
+2025-04-23 13:52:09.816 - Image copied to clipboard.
+2025-04-23 13:52:09.957 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_cq1sKRRC2K.png
+2025-04-23 13:52:10.005 - Task completed. File name: chrome_cq1sKRRC2K.png, Duration: 357 ms
+2025-04-23 13:52:11.107 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:52:11.107 - Executing: Capture entire screen
+2025-04-23 13:52:11.214 - Task in queue. Job: Job, Type: Image, Host: 
+2025-04-23 13:52:11.365 - Task status: Preparing
+2025-04-23 13:52:11.580 - Image copied to clipboard.
+2025-04-23 13:52:11.716 - Image saved to file: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\chrome_61qDrK5sp3.png
+2025-04-23 13:52:11.776 - Task completed. File name: chrome_61qDrK5sp3.png, Duration: 410 ms
+2025-04-23 13:58:13.089 - Folder opened: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\Screenshots\2025-04\
+2025-04-23 13:58:59.997 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2025-04-23 13:58:59.997 - Hotkey unregistered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-04-23 13:58:59.997 - Hotkey unregistered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-04-23 13:58:59.997 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-04-23 13:58:59.997 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-04-23 13:59:00.300 - ShareX closing.
+2025-04-23 13:59:00.307 - ApplicationConfig save started: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\ApplicationConfig.json
+2025-04-23 13:59:00.679 - ApplicationConfig save successful: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\ApplicationConfig.json
+2025-04-23 13:59:00.680 - UploadersConfig save started: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\UploadersConfig.json
+2025-04-23 13:59:00.849 - UploadersConfig save successful: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\UploadersConfig.json
+2025-04-23 13:59:00.851 - HotkeysConfig save started: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\HotkeysConfig.json
+2025-04-23 13:59:00.933 - HotkeysConfig save successful: C:\Users\Dede Fakhri\Documents\RAISYA'S COLLEGE\UTS DEEP LEARNING\UTS-PengantarDeepLearning\FR + RL\HotkeysConfig.json
+2025-04-23 13:59:00.933 - ShareX closed.
+2025-04-23 13:59:00.934 - ShareX restarting.
